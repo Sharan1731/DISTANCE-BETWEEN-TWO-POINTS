@@ -27,3 +27,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+Thus tha python program to calculate the distance between two points has been executed successfully
