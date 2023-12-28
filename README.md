@@ -10,7 +10,7 @@ To write a python program to find the distance two 2 points
 ### Step 5: end tha program
 ### PROGRAM:
 ```
-  #Program to find the distance between two points.
+#Program to find the distance between two points.
 #Developed by:SHARAN.G
 #RegisterNumber:212223230203
 import math
